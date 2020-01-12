@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1527010493 source:d:\coding\c\ta alpro ~ to-do list app\to-do list app\add_event.c
+	"header.h"
+
+1527009609 d:\coding\c\ta alpro ~ to-do list app\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1526968363 source:d:\coding\c\ta alpro ~ to-do list app\to-do list app\main.c
+	"header.h"
+
+1527135645 source:d:\_udinus\kuliah\alprog\ta\to-do list app\add_event.c
+	"header.h"
+
+1527468788 d:\_udinus\kuliah\alprog\ta\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1527468752 source:d:\_udinus\kuliah\alprog\ta\to-do list app\main.c
+	"header.h"
+
+1527468767 source:d:\_udinus\kuliah\alprog\ta\to-do list app\eror.c
+	"header.h"
+
+1527498758 source:g:\alpro\to-do list app\add_event.c
+	"header.h"
+
+1527498916 g:\alpro\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1527494924 source:g:\alpro\to-do list app\main.c
+	"header.h"
+
+1527495448 source:g:\alpro\to-do list app\printevent.c
+	"header.h"
+
+1528100962 source:e:\alpro\to-do list app\add_event.c
+	"header.h"
+
+1528100392 e:\alpro\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528101234 source:e:\alpro\to-do list app\main.c
+	"header.h"
+
+1528031388 source:e:\alpro\to-do list app\printevent.c
+	"header.h"
+
+1527552758 source:f:\alpro\to-do list app\add_event.c
+	"header.h"
+
+1527552916 f:\alpro\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1527548924 source:f:\alpro\to-do list app\main.c
+	"header.h"
+
+1527549448 source:f:\alpro\to-do list app\printevent.c
+	"header.h"
+
+1528100410 source:e:\alpro\to-do list app\searching_event.c
+	"header.h"
+
+1527498758 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\add_event.c
+	"header.h"
+
+1528015024 d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528017958 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\main.c
+	"header.h"
+
+1528016190 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\printevent.c
+	"header.h"
+
+1527615554 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\searching_event.c
+	"header.h"
+
+1528017918 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\sorting_event.c
+	"header.h"
+
+1528016190 source:d:\_udinus\kuliah\alprog\ta\to-do\to-do list app\delete_event.c
+	"header.h"
+
+1527498758 source:d:\coding\c\to-do list app\add_event.c
+	"header.h"
+
+1528015024 d:\coding\c\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528016190 source:d:\coding\c\to-do list app\delete_event.c
+	"header.h"
+
+1528017958 source:d:\coding\c\to-do list app\main.c
+	"header.h"
+
+1528016190 source:d:\coding\c\to-do list app\printevent.c
+	"header.h"
+
+1527615554 source:d:\coding\c\to-do list app\searching_event.c
+	"header.h"
+
+1528017918 source:d:\coding\c\to-do list app\sorting_event.c
+	"header.h"
+
+1528100790 source:e:\alpro\to-do list app\delete_event.c
+	"header.h"
+
+1528017920 source:e:\alpro\to-do list app\sorting_event.c
+	"header.h"
+
+1528154962 source:h:\to-do list app\add_event.c
+	"header.h"
+
+1528154392 h:\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528122626 source:h:\to-do list app\delete_event.c
+	"header.h"
+
+1528155728 source:h:\to-do list app\main.c
+	"header.h"
+
+1528085388 source:h:\to-do list app\printevent.c
+	"header.h"
+
+1528154410 source:h:\to-do list app\searching_event.c
+	"header.h"
+
+1528071920 source:h:\to-do list app\sorting_event.c
+	"header.h"
+
+1528100962 source:g:\to-do list app\add_event.c
+	"header.h"
+
+1528100392 g:\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528179676 source:g:\to-do list app\delete_event.c
+	"header.h"
+
+1528179270 source:g:\to-do list app\main.c
+	"header.h"
+
+1528031388 source:g:\to-do list app\printevent.c
+	"header.h"
+
+1528179220 source:g:\to-do list app\searching_event.c
+	"header.h"
+
+1528017920 source:g:\to-do list app\sorting_event.c
+	"header.h"
+
+1528100962 source:f:\alpro\ta\to-do list app\add_event.c
+	"header.h"
+
+1528100392 f:\alpro\ta\to-do list app\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
+1528179676 source:f:\alpro\ta\to-do list app\delete_event.c
+	"header.h"
+
+1528179842 source:f:\alpro\ta\to-do list app\main.c
+	"header.h"
+
+1528031388 source:f:\alpro\ta\to-do list app\printevent.c
+	"header.h"
+
+1528179220 source:f:\alpro\ta\to-do list app\searching_event.c
+	"header.h"
+
+1528186036 source:f:\alpro\ta\to-do list app\sorting_event.c
+	"header.h"
+
